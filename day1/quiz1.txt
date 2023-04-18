@@ -2,3 +2,7 @@ Nathan Yeung
 Java101 Quiz1 04/18/23
 
 1. java development kit
+2. programming language
+3. runtime environment
+4. standard library
+
