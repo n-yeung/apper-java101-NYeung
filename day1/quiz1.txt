@@ -6,4 +6,5 @@ Java101 Quiz1 04/18/23
 3. runtime environment
 4. standard library
 5. java virtual machine
+6. runtime enviroment
 
