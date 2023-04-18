@@ -8,4 +8,4 @@ Java101 Quiz1 04/18/23
 5. java virtual machine
 6. runtime enviroment
 7. false
-
+8. JAVA_HOME
