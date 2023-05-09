@@ -39,9 +39,9 @@ public class App {
 
         manilaToBoracay.addPassenger(); //OUTPUT FULL
         System.out.println(
-                "Validate Current # of available seats: " + manilaToBoracay.availableSeats);// 7
+                "Validate Current # of available seats: " + manilaToBoracay.availableSeats);// 0
         System.out.println(
-                "Validate Current # of passengers: " + manilaToBoracay.passengers);// 13
+                "Validate Current # of passengers: " + manilaToBoracay.passengers);// 10
 
 
         manilaToBoracay.setNumberOfSeats(20);
